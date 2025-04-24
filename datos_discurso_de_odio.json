@@ -1,0 +1,47 @@
+{
+  "Rurdu": {
+    "total_frases": 920,
+    "frases_odio": 538,
+    "porcentaje_odio": 58.5
+  },
+  "Francés": {
+    "total_frases": 1097,
+    "frases_odio": 565,
+    "porcentaje_odio": 51.5
+  },
+  "Alemán": {
+    "total_frases": 3036,
+    "frases_odio": 1531,
+    "porcentaje_odio": 50.4
+  },
+  "Inglés": {
+    "total_frases": 5906,
+    "frases_odio": 2714,
+    "porcentaje_odio": 46.0
+  },
+  "Árabe": {
+    "total_frases": 463,
+    "frases_odio": 175,
+    "porcentaje_odio": 37.8
+  },
+  "Chino": {
+    "total_frases": 897,
+    "frases_odio": 309,
+    "porcentaje_odio": 34.4
+  },
+  "Español": {
+    "total_frases": 1243,
+    "frases_odio": 424,
+    "porcentaje_odio": 34.1
+  },
+  "Ruso": {
+    "total_frases": 1612,
+    "frases_odio": 538,
+    "porcentaje_odio": 33.4
+  },
+  "Portugues": {
+    "total_frases": 747,
+    "frases_odio": 235,
+    "porcentaje_odio": 31.5
+  }
+}
