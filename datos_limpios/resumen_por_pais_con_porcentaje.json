@@ -1,0 +1,1274 @@
+[
+  {
+    "pais": "United States",
+    "codigo": "US",
+    "cantidad": 1260427,
+    "porcentaje": 44.8
+  },
+  {
+    "pais": "United Kingdom",
+    "codigo": "GB",
+    "cantidad": 214674,
+    "porcentaje": 7.63
+  },
+  {
+    "pais": "France",
+    "codigo": "FR",
+    "cantidad": 133157,
+    "porcentaje": 4.73
+  },
+  {
+    "pais": "Romania",
+    "codigo": "RO",
+    "cantidad": 101530,
+    "porcentaje": 3.61
+  },
+  {
+    "pais": "India",
+    "codigo": "IN",
+    "cantidad": 78986,
+    "porcentaje": 2.81
+  },
+  {
+    "pais": "Canada",
+    "codigo": "CA",
+    "cantidad": 74708,
+    "porcentaje": 2.66
+  },
+  {
+    "pais": "Russian Federation",
+    "codigo": "RU",
+    "cantidad": 58901,
+    "porcentaje": 2.09
+  },
+  {
+    "pais": "Italy",
+    "codigo": "IT",
+    "cantidad": 58061,
+    "porcentaje": 2.06
+  },
+  {
+    "pais": "Australia",
+    "codigo": "AU",
+    "cantidad": 48271,
+    "porcentaje": 1.72
+  },
+  {
+    "pais": "China",
+    "codigo": "CN",
+    "cantidad": 46062,
+    "porcentaje": 1.64
+  },
+  {
+    "pais": "Congo",
+    "codigo": "CG",
+    "cantidad": 45759,
+    "porcentaje": 1.63
+  },
+  {
+    "pais": "Germany",
+    "codigo": "DE",
+    "cantidad": 40656,
+    "porcentaje": 1.45
+  },
+  {
+    "pais": "Switzerland",
+    "codigo": "CH",
+    "cantidad": 34230,
+    "porcentaje": 1.22
+  },
+  {
+    "pais": "Philippines",
+    "codigo": "PH",
+    "cantidad": 30958,
+    "porcentaje": 1.1
+  },
+  {
+    "pais": "Korea, Republic of",
+    "codigo": "KR",
+    "cantidad": 25238,
+    "porcentaje": 0.9
+  },
+  {
+    "pais": "Venezuela, Bolivarian Republic of",
+    "codigo": "VE",
+    "cantidad": 25196,
+    "porcentaje": 0.9
+  },
+  {
+    "pais": "Iran, Islamic Republic of",
+    "codigo": "IR",
+    "cantidad": 24846,
+    "porcentaje": 0.88
+  },
+  {
+    "pais": "South Africa",
+    "codigo": "ZA",
+    "cantidad": 22247,
+    "porcentaje": 0.79
+  },
+  {
+    "pais": "Spain",
+    "codigo": "ES",
+    "cantidad": 18103,
+    "porcentaje": 0.64
+  },
+  {
+    "pais": "Indonesia",
+    "codigo": "ID",
+    "cantidad": 17292,
+    "porcentaje": 0.61
+  },
+  {
+    "pais": "Nigeria",
+    "codigo": "NG",
+    "cantidad": 17173,
+    "porcentaje": 0.61
+  },
+  {
+    "pais": "Ireland",
+    "codigo": "IE",
+    "cantidad": 15158,
+    "porcentaje": 0.54
+  },
+  {
+    "pais": "Austria",
+    "codigo": "AT",
+    "cantidad": 15108,
+    "porcentaje": 0.54
+  },
+  {
+    "pais": "Argentina",
+    "codigo": "AR",
+    "cantidad": 15036,
+    "porcentaje": 0.53
+  },
+  {
+    "pais": "Japan",
+    "codigo": "JP",
+    "cantidad": 14839,
+    "porcentaje": 0.53
+  },
+  {
+    "pais": "Brazil",
+    "codigo": "BR",
+    "cantidad": 13919,
+    "porcentaje": 0.49
+  },
+  {
+    "pais": "Hungary",
+    "codigo": "HU",
+    "cantidad": 13105,
+    "porcentaje": 0.47
+  },
+  {
+    "pais": "Netherlands",
+    "codigo": "NL",
+    "cantidad": 13025,
+    "porcentaje": 0.46
+  },
+  {
+    "pais": "Norway",
+    "codigo": "NO",
+    "cantidad": 11824,
+    "porcentaje": 0.42
+  },
+  {
+    "pais": "Malaysia",
+    "codigo": "MY",
+    "cantidad": 11336,
+    "porcentaje": 0.4
+  },
+  {
+    "pais": "Mexico",
+    "codigo": "MX",
+    "cantidad": 10734,
+    "porcentaje": 0.38
+  },
+  {
+    "pais": "Belgium",
+    "codigo": "BE",
+    "cantidad": 10473,
+    "porcentaje": 0.37
+  },
+  {
+    "pais": "Sweden",
+    "codigo": "SE",
+    "cantidad": 10227,
+    "porcentaje": 0.36
+  },
+  {
+    "pais": "Ethiopia",
+    "codigo": "ET",
+    "cantidad": 10016,
+    "porcentaje": 0.36
+  },
+  {
+    "pais": "Czechia",
+    "codigo": "CZ",
+    "cantidad": 9641,
+    "porcentaje": 0.34
+  },
+  {
+    "pais": "Pakistan",
+    "codigo": "PK",
+    "cantidad": 9570,
+    "porcentaje": 0.34
+  },
+  {
+    "pais": "Lao People's Democratic Republic",
+    "codigo": "LA",
+    "cantidad": 8433,
+    "porcentaje": 0.3
+  },
+  {
+    "pais": "Georgia",
+    "codigo": "GE",
+    "cantidad": 7947,
+    "porcentaje": 0.28
+  },
+  {
+    "pais": "Portugal",
+    "codigo": "PT",
+    "cantidad": 7776,
+    "porcentaje": 0.28
+  },
+  {
+    "pais": "Liberia",
+    "codigo": "LR",
+    "cantidad": 7556,
+    "porcentaje": 0.27
+  },
+  {
+    "pais": "Finland",
+    "codigo": "FI",
+    "cantidad": 7382,
+    "porcentaje": 0.26
+  },
+  {
+    "pais": "Colombia",
+    "codigo": "CO",
+    "cantidad": 7158,
+    "porcentaje": 0.25
+  },
+  {
+    "pais": "Kenya",
+    "codigo": "KE",
+    "cantidad": 7157,
+    "porcentaje": 0.25
+  },
+  {
+    "pais": "Thailand",
+    "codigo": "TH",
+    "cantidad": 6902,
+    "porcentaje": 0.25
+  },
+  {
+    "pais": "Greece",
+    "codigo": "GR",
+    "cantidad": 6775,
+    "porcentaje": 0.24
+  },
+  {
+    "pais": "Ukraine",
+    "codigo": "UA",
+    "cantidad": 6484,
+    "porcentaje": 0.23
+  },
+  {
+    "pais": "Denmark",
+    "codigo": "DK",
+    "cantidad": 6265,
+    "porcentaje": 0.22
+  },
+  {
+    "pais": "Türkiye",
+    "codigo": "TR",
+    "cantidad": 6157,
+    "porcentaje": 0.22
+  },
+  {
+    "pais": "Poland",
+    "codigo": "PL",
+    "cantidad": 5488,
+    "porcentaje": 0.2
+  },
+  {
+    "pais": "New Zealand",
+    "codigo": "NZ",
+    "cantidad": 5003,
+    "porcentaje": 0.18
+  },
+  {
+    "pais": "Saudi Arabia",
+    "codigo": "SA",
+    "cantidad": 4994,
+    "porcentaje": 0.18
+  },
+  {
+    "pais": "Benin",
+    "codigo": "BJ",
+    "cantidad": 4973,
+    "porcentaje": 0.18
+  },
+  {
+    "pais": "Cameroon",
+    "codigo": "CM",
+    "cantidad": 4866,
+    "porcentaje": 0.17
+  },
+  {
+    "pais": "Singapore",
+    "codigo": "SG",
+    "cantidad": 4774,
+    "porcentaje": 0.17
+  },
+  {
+    "pais": "Jersey",
+    "codigo": "JE",
+    "cantidad": 4740,
+    "porcentaje": 0.17
+  },
+  {
+    "pais": "Slovakia",
+    "codigo": "SK",
+    "cantidad": 4471,
+    "porcentaje": 0.16
+  },
+  {
+    "pais": "Yemen",
+    "codigo": "YE",
+    "cantidad": 4254,
+    "porcentaje": 0.15
+  },
+  {
+    "pais": "Chile",
+    "codigo": "CL",
+    "cantidad": 3722,
+    "porcentaje": 0.13
+  },
+  {
+    "pais": "Gambia",
+    "codigo": "GM",
+    "cantidad": 3699,
+    "porcentaje": 0.13
+  },
+  {
+    "pais": "Egypt",
+    "codigo": "EG",
+    "cantidad": 3597,
+    "porcentaje": 0.13
+  },
+  {
+    "pais": "Peru",
+    "codigo": "PE",
+    "cantidad": 3452,
+    "porcentaje": 0.12
+  },
+  {
+    "pais": "Israel",
+    "codigo": "IL",
+    "cantidad": 3413,
+    "porcentaje": 0.12
+  },
+  {
+    "pais": "Qatar",
+    "codigo": "QA",
+    "cantidad": 3407,
+    "porcentaje": 0.12
+  },
+  {
+    "pais": "Ghana",
+    "codigo": "GH",
+    "cantidad": 3310,
+    "porcentaje": 0.12
+  },
+  {
+    "pais": "Nepal",
+    "codigo": "NP",
+    "cantidad": 3090,
+    "porcentaje": 0.11
+  },
+  {
+    "pais": "Estonia",
+    "codigo": "EE",
+    "cantidad": 3023,
+    "porcentaje": 0.11
+  },
+  {
+    "pais": "Viet Nam",
+    "codigo": "VN",
+    "cantidad": 2961,
+    "porcentaje": 0.11
+  },
+  {
+    "pais": "Uganda",
+    "codigo": "UG",
+    "cantidad": 2927,
+    "porcentaje": 0.1
+  },
+  {
+    "pais": "Taiwan, Province of China",
+    "codigo": "TW",
+    "cantidad": 2906,
+    "porcentaje": 0.1
+  },
+  {
+    "pais": "Maldives",
+    "codigo": "MV",
+    "cantidad": 2850,
+    "porcentaje": 0.1
+  },
+  {
+    "pais": "Guyana",
+    "codigo": "GY",
+    "cantidad": 2572,
+    "porcentaje": 0.09
+  },
+  {
+    "pais": "United Arab Emirates",
+    "codigo": "AE",
+    "cantidad": 2505,
+    "porcentaje": 0.09
+  },
+  {
+    "pais": "Guatemala",
+    "codigo": "GT",
+    "cantidad": 2432,
+    "porcentaje": 0.09
+  },
+  {
+    "pais": "Jamaica",
+    "codigo": "JM",
+    "cantidad": 2214,
+    "porcentaje": 0.08
+  },
+  {
+    "pais": "Iceland",
+    "codigo": "IS",
+    "cantidad": 2208,
+    "porcentaje": 0.08
+  },
+  {
+    "pais": "Oman",
+    "codigo": "OM",
+    "cantidad": 2187,
+    "porcentaje": 0.08
+  },
+  {
+    "pais": "Slovenia",
+    "codigo": "SI",
+    "cantidad": 2133,
+    "porcentaje": 0.08
+  },
+  {
+    "pais": "Ecuador",
+    "codigo": "EC",
+    "cantidad": 2096,
+    "porcentaje": 0.07
+  },
+  {
+    "pais": "Cuba",
+    "codigo": "CU",
+    "cantidad": 1910,
+    "porcentaje": 0.07
+  },
+  {
+    "pais": "Zimbabwe",
+    "codigo": "ZW",
+    "cantidad": 1789,
+    "porcentaje": 0.06
+  },
+  {
+    "pais": "Azerbaijan",
+    "codigo": "AZ",
+    "cantidad": 1768,
+    "porcentaje": 0.06
+  },
+  {
+    "pais": "South Sudan",
+    "codigo": "SS",
+    "cantidad": 1684,
+    "porcentaje": 0.06
+  },
+  {
+    "pais": "Panama",
+    "codigo": "PA",
+    "cantidad": 1677,
+    "porcentaje": 0.06
+  },
+  {
+    "pais": "Latvia",
+    "codigo": "LV",
+    "cantidad": 1663,
+    "porcentaje": 0.06
+  },
+  {
+    "pais": "Jordan",
+    "codigo": "JO",
+    "cantidad": 1565,
+    "porcentaje": 0.06
+  },
+  {
+    "pais": "Malta",
+    "codigo": "MT",
+    "cantidad": 1528,
+    "porcentaje": 0.05
+  },
+  {
+    "pais": "Palestine, State of",
+    "codigo": "PS",
+    "cantidad": 1413,
+    "porcentaje": 0.05
+  },
+  {
+    "pais": "Paraguay",
+    "codigo": "PY",
+    "cantidad": 1397,
+    "porcentaje": 0.05
+  },
+  {
+    "pais": "Lithuania",
+    "codigo": "LT",
+    "cantidad": 1378,
+    "porcentaje": 0.05
+  },
+  {
+    "pais": "Lebanon",
+    "codigo": "LB",
+    "cantidad": 1347,
+    "porcentaje": 0.05
+  },
+  {
+    "pais": "Afghanistan",
+    "codigo": "AF",
+    "cantidad": 1230,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Bosnia and Herzegovina",
+    "codigo": "BA",
+    "cantidad": 1214,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Mali",
+    "codigo": "ML",
+    "cantidad": 1200,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Burkina Faso",
+    "codigo": "BF",
+    "cantidad": 1196,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Cabo Verde",
+    "codigo": "CV",
+    "cantidad": 1111,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Gabon",
+    "codigo": "GA",
+    "cantidad": 1086,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Sri Lanka",
+    "codigo": "LK",
+    "cantidad": 1069,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Morocco",
+    "codigo": "MA",
+    "cantidad": 1044,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Bangladesh",
+    "codigo": "BD",
+    "cantidad": 1037,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Iraq",
+    "codigo": "IQ",
+    "cantidad": 1023,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Serbia",
+    "codigo": "RS",
+    "cantidad": 1016,
+    "porcentaje": 0.04
+  },
+  {
+    "pais": "Uzbekistan",
+    "codigo": "UZ",
+    "cantidad": 922,
+    "porcentaje": 0.03
+  },
+  {
+    "pais": "Kuwait",
+    "codigo": "KW",
+    "cantidad": 843,
+    "porcentaje": 0.03
+  },
+  {
+    "pais": "Congo, The Democratic Republic of the",
+    "codigo": "CD",
+    "cantidad": 825,
+    "porcentaje": 0.03
+  },
+  {
+    "pais": "Cyprus",
+    "codigo": "CY",
+    "cantidad": 782,
+    "porcentaje": 0.03
+  },
+  {
+    "pais": "Haiti",
+    "codigo": "HT",
+    "cantidad": 766,
+    "porcentaje": 0.03
+  },
+  {
+    "pais": "Mongolia",
+    "codigo": "MN",
+    "cantidad": 694,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Syrian Arab Republic",
+    "codigo": "SY",
+    "cantidad": 670,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Chad",
+    "codigo": "TD",
+    "cantidad": 669,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Namibia",
+    "codigo": "NA",
+    "cantidad": 667,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Micronesia, Federated States of",
+    "codigo": "FM",
+    "cantidad": 659,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Guinea",
+    "codigo": "GN",
+    "cantidad": 636,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Somalia",
+    "codigo": "SO",
+    "cantidad": 634,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Uruguay",
+    "codigo": "UY",
+    "cantidad": 627,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Bulgaria",
+    "codigo": "BG",
+    "cantidad": 623,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Isle of Man",
+    "codigo": "IM",
+    "cantidad": 610,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Belarus",
+    "codigo": "BY",
+    "cantidad": 584,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Sierra Leone",
+    "codigo": "SL",
+    "cantidad": 581,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Dominican Republic",
+    "codigo": "DO",
+    "cantidad": 574,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Tajikistan",
+    "codigo": "TJ",
+    "cantidad": 567,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "North Macedonia",
+    "codigo": "MK",
+    "cantidad": 563,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "El Salvador",
+    "codigo": "SV",
+    "cantidad": 562,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Armenia",
+    "codigo": "AM",
+    "cantidad": 542,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Kyrgyzstan",
+    "codigo": "KG",
+    "cantidad": 518,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Croatia",
+    "codigo": "HR",
+    "cantidad": 514,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Angola",
+    "codigo": "AO",
+    "cantidad": 491,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Malawi",
+    "codigo": "MW",
+    "cantidad": 485,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Albania",
+    "codigo": "AL",
+    "cantidad": 475,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Costa Rica",
+    "codigo": "CR",
+    "cantidad": 458,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Algeria",
+    "codigo": "DZ",
+    "cantidad": 455,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Rwanda",
+    "codigo": "RW",
+    "cantidad": 454,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Anguilla",
+    "codigo": "AI",
+    "cantidad": 447,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Bahamas",
+    "codigo": "BS",
+    "cantidad": 446,
+    "porcentaje": 0.02
+  },
+  {
+    "pais": "Luxembourg",
+    "codigo": "LU",
+    "cantidad": 420,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Bahrain",
+    "codigo": "BH",
+    "cantidad": 381,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Tanzania, United Republic of",
+    "codigo": "TZ",
+    "cantidad": 365,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Bolivia, Plurinational State of",
+    "codigo": "BO",
+    "cantidad": 361,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Liechtenstein",
+    "codigo": "LI",
+    "cantidad": 360,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Botswana",
+    "codigo": "BW",
+    "cantidad": 360,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Nicaragua",
+    "codigo": "NI",
+    "cantidad": 353,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Tunisia",
+    "codigo": "TN",
+    "cantidad": 341,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Barbados",
+    "codigo": "BB",
+    "cantidad": 341,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Bermuda",
+    "codigo": "BM",
+    "cantidad": 337,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Cambodia",
+    "codigo": "KH",
+    "cantidad": 335,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Kazakhstan",
+    "codigo": "KZ",
+    "cantidad": 331,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Belize",
+    "codigo": "BZ",
+    "cantidad": 327,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Honduras",
+    "codigo": "HN",
+    "cantidad": 325,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Myanmar",
+    "codigo": "MM",
+    "cantidad": 320,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Niger",
+    "codigo": "NE",
+    "cantidad": 307,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Libya",
+    "codigo": "LY",
+    "cantidad": 304,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Kiribati",
+    "codigo": "KI",
+    "cantidad": 303,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Central African Republic",
+    "codigo": "CF",
+    "cantidad": 281,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Zambia",
+    "codigo": "ZM",
+    "cantidad": 279,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Togo",
+    "codigo": "TG",
+    "cantidad": 246,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Sudan",
+    "codigo": "SD",
+    "cantidad": 212,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Gibraltar",
+    "codigo": "GI",
+    "cantidad": 204,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Fiji",
+    "codigo": "FJ",
+    "cantidad": 197,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Eswatini",
+    "codigo": "SZ",
+    "cantidad": 197,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Senegal",
+    "codigo": "SN",
+    "cantidad": 197,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Grenada",
+    "codigo": "GD",
+    "cantidad": 190,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Bhutan",
+    "codigo": "BT",
+    "cantidad": 189,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Brunei Darussalam",
+    "codigo": "BN",
+    "cantidad": 169,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Andorra",
+    "codigo": "AD",
+    "cantidad": 168,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Greenland",
+    "codigo": "GL",
+    "cantidad": 168,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Monaco",
+    "codigo": "MC",
+    "cantidad": 160,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Turkmenistan",
+    "codigo": "TM",
+    "cantidad": 158,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Papua New Guinea",
+    "codigo": "PG",
+    "cantidad": 157,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Mozambique",
+    "codigo": "MZ",
+    "cantidad": 155,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Korea, Democratic People's Republic of",
+    "codigo": "KP",
+    "cantidad": 152,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Saint Kitts and Nevis",
+    "codigo": "KN",
+    "cantidad": 149,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Antigua and Barbuda",
+    "codigo": "AG",
+    "cantidad": 145,
+    "porcentaje": 0.01
+  },
+  {
+    "pais": "Côte d'Ivoire",
+    "codigo": "CI",
+    "cantidad": 139,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Nauru",
+    "codigo": "NR",
+    "cantidad": 137,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Moldova, Republic of",
+    "codigo": "MD",
+    "cantidad": 133,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Madagascar",
+    "codigo": "MG",
+    "cantidad": 120,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Vanuatu",
+    "codigo": "VU",
+    "cantidad": 104,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "XK",
+    "codigo": "XK",
+    "cantidad": 102,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Timor-Leste",
+    "codigo": "TL",
+    "cantidad": 100,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Guernsey",
+    "codigo": "GG",
+    "cantidad": 90,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Mauritius",
+    "codigo": "MU",
+    "cantidad": 88,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Faroe Islands",
+    "codigo": "FO",
+    "cantidad": 86,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Tuvalu",
+    "codigo": "TV",
+    "cantidad": 71,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Lesotho",
+    "codigo": "LS",
+    "cantidad": 71,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Montenegro",
+    "codigo": "ME",
+    "cantidad": 68,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Marshall Islands",
+    "codigo": "MH",
+    "cantidad": 66,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Tonga",
+    "codigo": "TO",
+    "cantidad": 64,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Comoros",
+    "codigo": "KM",
+    "cantidad": 50,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "British Indian Ocean Territory",
+    "codigo": "IO",
+    "cantidad": 42,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Suriname",
+    "codigo": "SR",
+    "cantidad": 42,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Cayman Islands",
+    "codigo": "KY",
+    "cantidad": 38,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Djibouti",
+    "codigo": "DJ",
+    "cantidad": 36,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Seychelles",
+    "codigo": "SC",
+    "cantidad": 29,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Saint Helena, Ascension and Tristan da Cunha",
+    "codigo": "SH",
+    "cantidad": 26,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Dominica",
+    "codigo": "DM",
+    "cantidad": 25,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Saint Vincent and the Grenadines",
+    "codigo": "VC",
+    "cantidad": 24,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Guinea-Bissau",
+    "codigo": "GW",
+    "cantidad": 24,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Mauritania",
+    "codigo": "MR",
+    "cantidad": 23,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Samoa",
+    "codigo": "WS",
+    "cantidad": 21,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Palau",
+    "codigo": "PW",
+    "cantidad": 20,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Burundi",
+    "codigo": "BI",
+    "cantidad": 20,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Trinidad and Tobago",
+    "codigo": "TT",
+    "cantidad": 17,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Eritrea",
+    "codigo": "ER",
+    "cantidad": 15,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Pitcairn",
+    "codigo": "PN",
+    "cantidad": 8,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Cook Islands",
+    "codigo": "CK",
+    "cantidad": 5,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Equatorial Guinea",
+    "codigo": "GQ",
+    "cantidad": 5,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Niue",
+    "codigo": "NU",
+    "cantidad": 5,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Solomon Islands",
+    "codigo": "SB",
+    "cantidad": 4,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Saint Lucia",
+    "codigo": "LC",
+    "cantidad": 2,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Virgin Islands, British",
+    "codigo": "VG",
+    "cantidad": 2,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Montserrat",
+    "codigo": "MS",
+    "cantidad": 2,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Turks and Caicos Islands",
+    "codigo": "TC",
+    "cantidad": 1,
+    "porcentaje": 0.0
+  },
+  {
+    "pais": "Sao Tome and Principe",
+    "codigo": "ST",
+    "cantidad": 1,
+    "porcentaje": 0.0
+  }
+]
