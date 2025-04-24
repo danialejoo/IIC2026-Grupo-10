@@ -1,0 +1,282 @@
+[
+  {
+    "estado": "California",
+    "cantidad": 70414,
+    "porcentaje": 11.21
+  },
+  {
+    "estado": "Texas",
+    "cantidad": 70360,
+    "porcentaje": 11.2
+  },
+  {
+    "estado": "New York",
+    "cantidad": 68804,
+    "porcentaje": 10.95
+  },
+  {
+    "estado": "Florida",
+    "cantidad": 39878,
+    "porcentaje": 6.35
+  },
+  {
+    "estado": "Illinois",
+    "cantidad": 29243,
+    "porcentaje": 4.66
+  },
+  {
+    "estado": "Pennsylvania",
+    "cantidad": 24399,
+    "porcentaje": 3.88
+  },
+  {
+    "estado": "Washington",
+    "cantidad": 22968,
+    "porcentaje": 3.66
+  },
+  {
+    "estado": "Washington, D.C.",
+    "cantidad": 20282,
+    "porcentaje": 3.23
+  },
+  {
+    "estado": "Ohio",
+    "cantidad": 17939,
+    "porcentaje": 2.86
+  },
+  {
+    "estado": "Arizona",
+    "cantidad": 16151,
+    "porcentaje": 2.57
+  },
+  {
+    "estado": "Georgia",
+    "cantidad": 14484,
+    "porcentaje": 2.31
+  },
+  {
+    "estado": "Massachusetts",
+    "cantidad": 13301,
+    "porcentaje": 2.12
+  },
+  {
+    "estado": "Oregon",
+    "cantidad": 12621,
+    "porcentaje": 2.01
+  },
+  {
+    "estado": "Colorado",
+    "cantidad": 12530,
+    "porcentaje": 1.99
+  },
+  {
+    "estado": "North Carolina",
+    "cantidad": 12048,
+    "porcentaje": 1.92
+  },
+  {
+    "estado": "New Jersey",
+    "cantidad": 12013,
+    "porcentaje": 1.91
+  },
+  {
+    "estado": "Virginia",
+    "cantidad": 11446,
+    "porcentaje": 1.82
+  },
+  {
+    "estado": "Kansas",
+    "cantidad": 10596,
+    "porcentaje": 1.69
+  },
+  {
+    "estado": "Tennessee",
+    "cantidad": 9945,
+    "porcentaje": 1.58
+  },
+  {
+    "estado": "Louisiana",
+    "cantidad": 9671,
+    "porcentaje": 1.54
+  },
+  {
+    "estado": "Maryland",
+    "cantidad": 9653,
+    "porcentaje": 1.54
+  },
+  {
+    "estado": "Missouri",
+    "cantidad": 9306,
+    "porcentaje": 1.48
+  },
+  {
+    "estado": "Michigan",
+    "cantidad": 8720,
+    "porcentaje": 1.39
+  },
+  {
+    "estado": "Indiana",
+    "cantidad": 7626,
+    "porcentaje": 1.21
+  },
+  {
+    "estado": "Minnesota",
+    "cantidad": 7357,
+    "porcentaje": 1.17
+  },
+  {
+    "estado": "Kentucky",
+    "cantidad": 7049,
+    "porcentaje": 1.12
+  },
+  {
+    "estado": "Wisconsin",
+    "cantidad": 6373,
+    "porcentaje": 1.01
+  },
+  {
+    "estado": "Oklahoma",
+    "cantidad": 6243,
+    "porcentaje": 0.99
+  },
+  {
+    "estado": "Utah",
+    "cantidad": 5913,
+    "porcentaje": 0.94
+  },
+  {
+    "estado": "Alabama",
+    "cantidad": 5618,
+    "porcentaje": 0.89
+  },
+  {
+    "estado": "West Virginia",
+    "cantidad": 4677,
+    "porcentaje": 0.74
+  },
+  {
+    "estado": "South Carolina",
+    "cantidad": 3878,
+    "porcentaje": 0.62
+  },
+  {
+    "estado": "Nebraska",
+    "cantidad": 3700,
+    "porcentaje": 0.59
+  },
+  {
+    "estado": "Hawaii",
+    "cantidad": 3487,
+    "porcentaje": 0.56
+  },
+  {
+    "estado": "Maine",
+    "cantidad": 3181,
+    "porcentaje": 0.51
+  },
+  {
+    "estado": "Rhode Island",
+    "cantidad": 3146,
+    "porcentaje": 0.5
+  },
+  {
+    "estado": "Nevada",
+    "cantidad": 3052,
+    "porcentaje": 0.49
+  },
+  {
+    "estado": "New Mexico",
+    "cantidad": 3046,
+    "porcentaje": 0.48
+  },
+  {
+    "estado": "Arkansas",
+    "cantidad": 2783,
+    "porcentaje": 0.44
+  },
+  {
+    "estado": "Connecticut",
+    "cantidad": 2679,
+    "porcentaje": 0.43
+  },
+  {
+    "estado": "Idaho",
+    "cantidad": 2583,
+    "porcentaje": 0.41
+  },
+  {
+    "estado": "Puerto Rico",
+    "cantidad": 2551,
+    "porcentaje": 0.41
+  },
+  {
+    "estado": "Iowa",
+    "cantidad": 2534,
+    "porcentaje": 0.4
+  },
+  {
+    "estado": "Alaska",
+    "cantidad": 2396,
+    "porcentaje": 0.38
+  },
+  {
+    "estado": "Mississippi",
+    "cantidad": 2008,
+    "porcentaje": 0.32
+  },
+  {
+    "estado": "Wyoming",
+    "cantidad": 1911,
+    "porcentaje": 0.3
+  },
+  {
+    "estado": "New Hampshire",
+    "cantidad": 1634,
+    "porcentaje": 0.26
+  },
+  {
+    "estado": "Montana",
+    "cantidad": 1556,
+    "porcentaje": 0.25
+  },
+  {
+    "estado": "Delaware",
+    "cantidad": 1411,
+    "porcentaje": 0.22
+  },
+  {
+    "estado": "Vermont",
+    "cantidad": 1169,
+    "porcentaje": 0.19
+  },
+  {
+    "estado": "North Dakota",
+    "cantidad": 979,
+    "porcentaje": 0.16
+  },
+  {
+    "estado": "South Dakota",
+    "cantidad": 517,
+    "porcentaje": 0.08
+  },
+  {
+    "estado": "Guam",
+    "cantidad": 147,
+    "porcentaje": 0.02
+  },
+  {
+    "estado": "Northern Mariana Islands",
+    "cantidad": 54,
+    "porcentaje": 0.01
+  },
+  {
+    "estado": "American Samoa",
+    "cantidad": 53,
+    "porcentaje": 0.01
+  },
+  {
+    "estado": "United States Virgin Islands",
+    "cantidad": 4,
+    "porcentaje": 0.0
+  }
+]
