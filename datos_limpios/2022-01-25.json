@@ -1,206 +1,209 @@
-[
-  {
-    "estado": "AK",
-    "cantidad": 1982
-  },
-  {
-    "estado": "AL",
-    "cantidad": 0
-  },
-  {
-    "estado": "AR",
-    "cantidad": 10484
-  },
-  {
-    "estado": "AZ",
-    "cantidad": 13972
-  },
-  {
-    "estado": "CA",
-    "cantidad": 54051
-  },
-  {
-    "estado": "CO",
-    "cantidad": 9851
-  },
-  {
-    "estado": "CT",
-    "cantidad": 3824
-  },
-  {
-    "estado": "DC",
-    "cantidad": 189
-  },
-  {
-    "estado": "DE",
-    "cantidad": 957
-  },
-  {
-    "estado": "FL",
-    "cantidad": 37610
-  },
-  {
-    "estado": "GA",
-    "cantidad": 11559
-  },
-  {
-    "estado": "HI",
-    "cantidad": 1904
-  },
-  {
-    "estado": "IA",
-    "cantidad": 5945
-  },
-  {
-    "estado": "ID",
-    "cantidad": 3520
-  },
-  {
-    "estado": "IL",
-    "cantidad": 13689
-  },
-  {
-    "estado": "IN",
-    "cantidad": 9731
-  },
-  {
-    "estado": "KS",
-    "cantidad": 0
-  },
-  {
-    "estado": "KY",
-    "cantidad": 15046
-  },
-  {
-    "estado": "LA",
-    "cantidad": 9104
-  },
-  {
-    "estado": "MA",
-    "cantidad": 7120
-  },
-  {
-    "estado": "MD",
-    "cantidad": 2399
-  },
-  {
-    "estado": "ME",
-    "cantidad": 1575
-  },
-  {
-    "estado": "MI",
-    "cantidad": 0
-  },
-  {
-    "estado": "MN",
-    "cantidad": 35491
-  },
-  {
-    "estado": "MO",
-    "cantidad": 9390
-  },
-  {
-    "estado": "MS",
-    "cantidad": 4909
-  },
-  {
-    "estado": "MT",
-    "cantidad": 2872
-  },
-  {
-    "estado": "NC",
-    "cantidad": 13017
-  },
-  {
-    "estado": "ND",
-    "cantidad": 3419
-  },
-  {
-    "estado": "NE",
-    "cantidad": 3339
-  },
-  {
-    "estado": "NH",
-    "cantidad": 860
-  },
-  {
-    "estado": "NJ",
-    "cantidad": 5722
-  },
-  {
-    "estado": "NM",
-    "cantidad": 3331
-  },
-  {
-    "estado": "NV",
-    "cantidad": 3612
-  },
-  {
-    "estado": "NY",
-    "cantidad": 12484
-  },
-  {
-    "estado": "OH",
-    "cantidad": 4163
-  },
-  {
-    "estado": "OK",
-    "cantidad": 8159
-  },
-  {
-    "estado": "OR",
-    "cantidad": 6902
-  },
-  {
-    "estado": "PA",
-    "cantidad": 10860
-  },
-  {
-    "estado": "RI",
-    "cantidad": 1904
-  },
-  {
-    "estado": "SC",
-    "cantidad": 0
-  },
-  {
-    "estado": "SD",
-    "cantidad": 0
-  },
-  {
-    "estado": "TN",
-    "cantidad": 0
-  },
-  {
-    "estado": "TX",
-    "cantidad": 45056
-  },
-  {
-    "estado": "UT",
-    "cantidad": 6600
-  },
-  {
-    "estado": "VA",
-    "cantidad": 10699
-  },
-  {
-    "estado": "VT",
-    "cantidad": 529
-  },
-  {
-    "estado": "WA",
-    "cantidad": 0
-  },
-  {
-    "estado": "WI",
-    "cantidad": 7061
-  },
-  {
-    "estado": "WV",
-    "cantidad": 2748
-  },
-  {
-    "estado": "WY",
-    "cantidad": 1588
-  }
-]
+{
+  "estados": [
+    {
+      "estado": "AK",
+      "cantidad": 1982
+    },
+    {
+      "estado": "AL",
+      "cantidad": 0
+    },
+    {
+      "estado": "AR",
+      "cantidad": 10484
+    },
+    {
+      "estado": "AZ",
+      "cantidad": 13972
+    },
+    {
+      "estado": "CA",
+      "cantidad": 54051
+    },
+    {
+      "estado": "CO",
+      "cantidad": 9851
+    },
+    {
+      "estado": "CT",
+      "cantidad": 3824
+    },
+    {
+      "estado": "DC",
+      "cantidad": 189
+    },
+    {
+      "estado": "DE",
+      "cantidad": 957
+    },
+    {
+      "estado": "FL",
+      "cantidad": 37610
+    },
+    {
+      "estado": "GA",
+      "cantidad": 11559
+    },
+    {
+      "estado": "HI",
+      "cantidad": 1904
+    },
+    {
+      "estado": "IA",
+      "cantidad": 5945
+    },
+    {
+      "estado": "ID",
+      "cantidad": 3520
+    },
+    {
+      "estado": "IL",
+      "cantidad": 13689
+    },
+    {
+      "estado": "IN",
+      "cantidad": 9731
+    },
+    {
+      "estado": "KS",
+      "cantidad": 0
+    },
+    {
+      "estado": "KY",
+      "cantidad": 15046
+    },
+    {
+      "estado": "LA",
+      "cantidad": 9104
+    },
+    {
+      "estado": "MA",
+      "cantidad": 7120
+    },
+    {
+      "estado": "MD",
+      "cantidad": 2399
+    },
+    {
+      "estado": "ME",
+      "cantidad": 1575
+    },
+    {
+      "estado": "MI",
+      "cantidad": 0
+    },
+    {
+      "estado": "MN",
+      "cantidad": 35491
+    },
+    {
+      "estado": "MO",
+      "cantidad": 9390
+    },
+    {
+      "estado": "MS",
+      "cantidad": 4909
+    },
+    {
+      "estado": "MT",
+      "cantidad": 2872
+    },
+    {
+      "estado": "NC",
+      "cantidad": 13017
+    },
+    {
+      "estado": "ND",
+      "cantidad": 3419
+    },
+    {
+      "estado": "NE",
+      "cantidad": 3339
+    },
+    {
+      "estado": "NH",
+      "cantidad": 860
+    },
+    {
+      "estado": "NJ",
+      "cantidad": 5722
+    },
+    {
+      "estado": "NM",
+      "cantidad": 3331
+    },
+    {
+      "estado": "NV",
+      "cantidad": 3612
+    },
+    {
+      "estado": "NY",
+      "cantidad": 12484
+    },
+    {
+      "estado": "OH",
+      "cantidad": 4163
+    },
+    {
+      "estado": "OK",
+      "cantidad": 8159
+    },
+    {
+      "estado": "OR",
+      "cantidad": 6902
+    },
+    {
+      "estado": "PA",
+      "cantidad": 10860
+    },
+    {
+      "estado": "RI",
+      "cantidad": 1904
+    },
+    {
+      "estado": "SC",
+      "cantidad": 0
+    },
+    {
+      "estado": "SD",
+      "cantidad": 0
+    },
+    {
+      "estado": "TN",
+      "cantidad": 0
+    },
+    {
+      "estado": "TX",
+      "cantidad": 45056
+    },
+    {
+      "estado": "UT",
+      "cantidad": 6600
+    },
+    {
+      "estado": "VA",
+      "cantidad": 10699
+    },
+    {
+      "estado": "VT",
+      "cantidad": 529
+    },
+    {
+      "estado": "WA",
+      "cantidad": 0
+    },
+    {
+      "estado": "WI",
+      "cantidad": 7061
+    },
+    {
+      "estado": "WV",
+      "cantidad": 2748
+    },
+    {
+      "estado": "WY",
+      "cantidad": 1588
+    }
+  ],
+  "total_nacional": 419227
+}
