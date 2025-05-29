@@ -205,5 +205,27 @@
       "cantidad": 0
     }
   ],
-  "total_nacional": 27999
+  "total_nacional": 27999,
+  "top5": [
+    {
+      "estado": "California",
+      "total": 2942805
+    },
+    {
+      "estado": "Texas",
+      "total": 1939717
+    },
+    {
+      "estado": "Florida",
+      "total": 1563728
+    },
+    {
+      "estado": "New York",
+      "total": 1417237
+    },
+    {
+      "estado": "North Carolina",
+      "total": 892300
+    }
+  ]
 }
