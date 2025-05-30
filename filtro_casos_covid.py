@@ -22,5 +22,3 @@ for date in date_columns:
     filename = os.path.join(output_dir, f"{date.replace('/', '-')}.json")
     with open(filename, "w") as f:
         json.dump(json_list, f, indent=2)
-
-print(f"Archivos JSON generados en la carpeta: {output_dir}")
